@@ -6,17 +6,25 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<!--
-**IshanD101/IshanD101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me
+<p align="justify">
+Passionate software engineering undergraduate with a love for full-stack development, especially in Java. I enjoy turning ideas into functional, user-friendly applications and thrive on solving complex problems. Quick to learn and adapt, I value collaboration and crafting reliable, impactful solutions.
+</p>
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com?user=IshanD101&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=IshanD101&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanD101&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=IshanD101&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanD101&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
