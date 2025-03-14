@@ -14,26 +14,27 @@ Passionate software engineering undergraduate with a love for full-stack develop
 
 <!-- =============================================================Stats================================================================= -->
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- Dark Mode Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=IshanD101&show_icons=true&theme=gotham&count_private=true&cache_seconds=86400#gh-dark-mode-only" />
   </a>
-  <br><br> <!-- Added extra spacing -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanD101&layout=compact&langs_count=10&hide=jupyter%20notebook,html,css&card_width=330&theme=gotham&cache_seconds=86400#gh-dark-mode-only" />
   </a>
-  <br><br> <!-- Added extra spacing -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-dark-mode-only">
+    <img height=200 src="https://nirzak-streak-stats.vercel.app/?user=IshanD101&theme=dark&hide_border=false" />
+  </a>
   
   <!-- Light Mode Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=IshanD101&show_icons=true&theme=catppuccin_latte&count_private=true&cache_seconds=86400#gh-light-mode-only" />
   </a>
-  <br><br> <!-- Added extra spacing -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanD101&layout=compact&langs_count=10&hide=jupyter%20notebook,html,css&card_width=330&theme=catppuccin_latte&cache_seconds=86400#gh-light-mode-only" />
   </a>
 </p>
+
 
 <!-- =============================================================Tech================================================================= -->
 
